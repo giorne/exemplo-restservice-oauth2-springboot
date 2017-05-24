@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'to-do-list'
+rootProject.name = 'restservice-oauth2-springboot'
