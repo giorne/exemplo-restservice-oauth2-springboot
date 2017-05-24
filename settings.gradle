@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'restservice-oauth2-springboot'
+rootProject.name = 'exemplo-restservice-oauth2-springboot'
